@@ -1,3 +1,4 @@
+# 수정중
 # -*- coding: utf-8 -*-
 """rnn.ipynb
 
